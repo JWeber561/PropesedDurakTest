@@ -1,0 +1,8 @@
+E:\OOP4200\ProposedDurakTest\PropesedDurakTest\bin\Debug\PropesedDurakTest.exe.config
+E:\OOP4200\ProposedDurakTest\PropesedDurakTest\bin\Debug\PropesedDurakTest.exe
+E:\OOP4200\ProposedDurakTest\PropesedDurakTest\bin\Debug\PropesedDurakTest.pdb
+E:\OOP4200\ProposedDurakTest\PropesedDurakTest\bin\Debug\DurakDeck.dll
+E:\OOP4200\ProposedDurakTest\PropesedDurakTest\bin\Debug\DurakDeck.pdb
+E:\OOP4200\ProposedDurakTest\PropesedDurakTest\obj\Debug\ProposedDurakTest.csprojResolveAssemblyReference.cache
+E:\OOP4200\ProposedDurakTest\PropesedDurakTest\obj\Debug\PropesedDurakTest.exe
+E:\OOP4200\ProposedDurakTest\PropesedDurakTest\obj\Debug\PropesedDurakTest.pdb
